@@ -1,9 +1,7 @@
 # 💫 关于我:
 你好👋，我是程亮。一个来自中国成都的程序员
 <br>
-<br>🔭 我目前正在从事物联网软件开发方向的项目
-<br>
-<br>🌱 我目前正在学习设备通信协议
+<br>🔭 我目前正在从事物联网、执法系统软件开发方向的项目
 <br>
 <br>💬 如何联系我 chengliang4810@163.com<br>
 
@@ -17,9 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chengliang4810&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chengliang4810&icon=0&color=1)](https://visitcount.itsvg.in)
